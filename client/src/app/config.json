@@ -1,0 +1,4 @@
+{
+    "apiEndpoint": "http://localhot:8080/api",
+    "isFireBase": false
+}
