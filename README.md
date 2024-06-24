@@ -1,29 +1,24 @@
 # Friend Finder
 
-Friend Finder is a web application designed to help users find new friends. The project consists of both client-side and server-side components. The frontend is built using React.js, while the backend is implemented in Node.js and connected to a MongoDB database. Docker containers are utilized for deployment.
+Friend Finder - это веб-приложение, разработанное для помощи пользователям в поиске новых друзей. Проект состоит из клиентской и серверной частей. Фронтенд построен с использованием React.js, а бэкенд реализован на Node.js и подключен к базе данных MongoDB. Для развертывания используются контейнеры Docker.
 
-## Features
-- User-friendly interface for searching and connecting with friends
-- Secure authentication system
-- Real-time updates using WebSockets
-- Scalable architecture with Docker containers
+## Особенности
+- Пользовательский интерфейс для поиска и подключения к друзьям
+- Безопасная система аутентификации
+- Обновления в реальном времени с использованием WebSockets
+- Масштабируемая архитектура с использованием контейнеров Docker
 
-## Technologies Used
+## Используемые технологии
 - React.js
 - Node.js
 - MongoDB
 - Docker
 
-## Getting Started
-To get started with Friend Finder, follow these steps:
+## Начало работы
+Чтобы начать работу с Friend Finder, выполните следующие шаги:
 
-1. Clone this repository.
-2. Install dependencies using npm install.
-3. Start the frontend and backend servers.
-4. Access the application in your browser.
+1. Клонируйте этот репозиторий.
+2. Установите зависимости с помощью npm install.
+3. Запустите сервера фронтенда и бэкенда.
+4. Откройте приложение в вашем браузере.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to Friend Finder, please fork the repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
